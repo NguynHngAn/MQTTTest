@@ -1,0 +1,17 @@
+C:\Users\ACER\source\repos\MQTT2\MQTT2\obj\Debug\net8.0\MQTT2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\MQTT2\MQTT2\obj\Debug\net8.0\MQTT2.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\MQTT2\MQTT2\obj\Debug\net8.0\MQTT2.AssemblyInfo.cs
+C:\Users\ACER\source\repos\MQTT2\MQTT2\obj\Debug\net8.0\MQTT2.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\MQTT2\MQTT2\bin\Debug\net8.0\MQTT2.exe
+C:\Users\ACER\source\repos\MQTT2\MQTT2\bin\Debug\net8.0\MQTT2.deps.json
+C:\Users\ACER\source\repos\MQTT2\MQTT2\bin\Debug\net8.0\MQTT2.runtimeconfig.json
+C:\Users\ACER\source\repos\MQTT2\MQTT2\bin\Debug\net8.0\MQTT2.dll
+C:\Users\ACER\source\repos\MQTT2\MQTT2\bin\Debug\net8.0\MQTT2.pdb
+C:\Users\ACER\source\repos\MQTT2\MQTT2\bin\Debug\net8.0\MQTTnet.dll
+C:\Users\ACER\source\repos\MQTT2\MQTT2\obj\Debug\net8.0\MQTT2.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\MQTT2\MQTT2\obj\Debug\net8.0\MQTT2.csproj.Up2Date
+C:\Users\ACER\source\repos\MQTT2\MQTT2\obj\Debug\net8.0\MQTT2.dll
+C:\Users\ACER\source\repos\MQTT2\MQTT2\obj\Debug\net8.0\refint\MQTT2.dll
+C:\Users\ACER\source\repos\MQTT2\MQTT2\obj\Debug\net8.0\MQTT2.pdb
+C:\Users\ACER\source\repos\MQTT2\MQTT2\obj\Debug\net8.0\MQTT2.genruntimeconfig.cache
+C:\Users\ACER\source\repos\MQTT2\MQTT2\obj\Debug\net8.0\ref\MQTT2.dll
